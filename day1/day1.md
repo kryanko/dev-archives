@@ -47,9 +47,9 @@ git merge develop
 ```
 
 ### git commit convention
-1.	Subject line under 50 characters, in imperative mood, start with a capital letter.
-2.	Body separated by a blank line, wrapped at 72 characters, describing the reason for the changes.
-3.	Footer for referencing issues (e.g., Closes #1234) or co-authors.
+1. Subject line under 50 characters, in imperative mood, start with a capital letter.
+2. Body separated by a blank line, wrapped at 72 characters, describing the reason for the changes.
+3. Footer for referencing issues (e.g., Closes #1234) or co-authors.
 ```
 <type>[optional scope]: <short summary>
 [BLANK LINE]
